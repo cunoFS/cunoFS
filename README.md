@@ -6,9 +6,9 @@ Welcome to `cunoFS`'s public repository.
 
 [Our quickstart guide](https://cuno-cunofs.readthedocs-hosted.com/en/stable/getting-started-introduction.html) is here to assist you if you have any further questions.
 
-## Installation
+## Download and Installation
    
-All installer files are available in the latest `Release`.
+All installer files are available in the latest `Release` which can be found [here](https://github.com/cunoFS/cunoFS/releases).
 
 ### Single User Installation
 
