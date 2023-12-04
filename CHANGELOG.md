@@ -20,3 +20,4 @@
 - Add mmap write support on objects
 - Fusion mode improvements and fixes
 - Miscellaneous fixes
+- Added Musl build
