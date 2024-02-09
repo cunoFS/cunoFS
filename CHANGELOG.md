@@ -1,5 +1,10 @@
 # cunoFS Changelog
 
+## v1.1.10
+
+- Static binary interception - performance improvements
+- Better support for multi-process directory listings
+
 ## v1.1.9
 
 - Added "cuno fusion" command for easier pairing of local and cloud storage
