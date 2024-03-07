@@ -1,5 +1,12 @@
 # cunoFS Changelog
 
+## v1.2.0
+
+- ML acceleration integration (with separate `Python` package)
+- Fixes for some `mmap` conditions in direct mode
+- Miscellaneous fixes and performance improvements
+- Trial sign-up is optional/interactive during installation
+
 ## v1.1.10
 
 - Static binary interception - performance improvements
