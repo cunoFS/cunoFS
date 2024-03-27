@@ -1,5 +1,12 @@
 # cunoFS Changelog
 
+## v1.2.1
+
+- Fix for handling AWS IAM credential renewals on long sessions
+- Improved `freopen` compatibility
+- FUSE mounts have `auto_cache` enabled by default
+- Miscellaneous fixes and performance improvements
+
 ## v1.2.0
 
 - ML acceleration integration (with separate `Python` package)
