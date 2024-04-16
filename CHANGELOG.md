@@ -1,5 +1,11 @@
 # cunoFS Changelog
 
+## v1.2.2
+
+- Fix for long running AWS IAM credentials expiry
+- Fix corner-case internal lock conditions in cuno mount
+- Miscellaneous fixes and performance improvements
+
 ## v1.2.1
 
 - Fix for handling AWS IAM credential renewals on long sessions
