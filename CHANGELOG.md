@@ -1,5 +1,10 @@
 # cunoFS Changelog
 
+## v1.2.3
+
+- Fix for POSIX-mode metadata corner case
+- Fix for POSIX-mode lock and performance condition
+
 ## v1.2.2
 
 - Fix for long running AWS IAM credentials expiry
