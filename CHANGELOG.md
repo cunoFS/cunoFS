@@ -1,5 +1,13 @@
 # cunoFS Changelog
 
+## v1.2.4
+
+- Fix atomic rename on open file
+- Fix file append corner case on large files
+- Fix open64 for musl / Alpine
+- Kubernetes CSI driver now available for public download
+- Miscellaneous fixes
+
 ## v1.2.3
 
 - Fix for POSIX-mode metadata corner case
