@@ -1,5 +1,11 @@
 # cunoFS Changelog
 
+## v1.2.5
+
+- Fixes for POSIX metadata corner-case race conditions
+- Simplified Fusion mounting scheme to work with filesystems that don't support extended attributes (e.g. EFS)
+- Miscellaneous fixes and improvements
+
 ## v1.2.4
 
 - Fix atomic rename on open file
