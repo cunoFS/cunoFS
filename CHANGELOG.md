@@ -1,5 +1,10 @@
 # cunoFS Changelog
 
+## v1.2.6
+
+- Added support for POSIX and BSD file locks
+- Miscellaneous fixes and improvements
+
 ## v1.2.5
 
 - Fixes for POSIX metadata corner-case race conditions
