@@ -1,5 +1,11 @@
 # cunoFS Changelog
 
+## v1.2.7
+
+- Optimized Storj listing operations
+- Fixed rare segmentation fault occurring when duplicating file handle
+- Miscellaneous fixes
+
 ## v1.2.6
 
 - Added support for POSIX and BSD file locks
